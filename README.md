@@ -6,7 +6,7 @@ adds a feature to this one app.
 
 _Fictional — for educational use._
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=REPLACE_WITH_STUDENT_REPO_URL)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vaibav03/copper-m0)
 
 The app builds and runs with **no environment variables**. Pages that need
 Supabase or the AI gateway show a "Set up …" card until you add them.
